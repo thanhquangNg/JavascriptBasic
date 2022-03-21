@@ -7,4 +7,4 @@ Using the JavaScript and React environment to create a to-do-list application
 - There is small indication on the completed items for easy observation
 
 # PREFERENCE
-This application is created following the tutorial provided by [Dev Ed video tutorial] (https://www.youtube.com/watch?v=pCA4qpQDZD8&ab_channel=DevEd)
+This application is created following the tutorial provided by [ Dev Ed video tutorial ] (https://www.youtube.com/watch?v=pCA4qpQDZD8&ab_channel=DevEd)
